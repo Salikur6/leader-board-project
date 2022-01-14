@@ -97,7 +97,7 @@
                     
                     .player-title {
                         color: #562EFF;
-                        margin-top: 3px;
+                        margin-bottom: 50px;
                     }
                     
                     .players {
@@ -129,16 +129,18 @@
                     
                     .blog-title {
                         color: #562EFF;
+                        margin-bottom: 50px;
                     }
                     
                     .blogs {
                         display: grid;
                         grid-template-columns: 1fr 1fr;
-                        grid-row-gap: 26px;
+                        grid-row-gap: 50px;
                     }
                     
                     .blog {
                         display: flex;
+                        margin: 10px;
                     }
                     
                     .blog-img img {
@@ -171,6 +173,7 @@
                     
                     .course-title {
                         color: #562EFF;
+                        margin-bottom: 50px;
                     }
                     
                     .courses {
@@ -179,8 +182,8 @@
                     }
                     
                     .course {
-                        padding: 10px;
-                        margin: 6px;
+                        padding: 7px;
+                        margin: 6px 20px 6px 5px;
                         filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
                         box-shadow: 0px 5.342289924621582px 13.35572338104248px 0px #0000000d;
                     }
